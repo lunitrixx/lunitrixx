@@ -1,0 +1,103 @@
+# More information at https://git-scm.com/docs/gitignore
+
+# It is not absolutely required (but highly recommended) that you have: `ignorecase = true`
+# in your `.gitconfig` file to maximize compatibility with some of these exclusion patterns.
+
+# Ignore ---------------------------------------------------------------------------------------------------------------
+
+# Local
+.~*
+._*
+
+# Logs
+*.log
+
+# Backups
+*~
+*.bak
+
+# Vagrant
+.vagrant/
+
+# TypeScript
+typings/
+
+# IntelliJ
+.idea/
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Vendor
+vendor/
+
+# NodeJS
+node_modules/
+
+# JSPM
+jspm_packages/
+
+# Bower
+bower_components/
+
+# SASS
+.sass-cache/
+
+# Elastic Beanstalk
+.elasticbeanstalk/
+
+# CTAGs
+*.ctags
+*.tags
+
+# VCS
+.git/
+.svn/
+_svn/
+CVS/
+.cvsignore
+.bzr/
+.bzrignore
+.hg/
+.hgignore
+SCCS/
+RCS/
+
+# PC Files
+$RECYCLE.BIN/
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Mac Files
+.AppleDB
+.AppleDouble
+.AppleDesktop
+.com.apple.timemachine.donotpresent
+Network Trash Folder
+Temporary Items
+.LSOverride
+.Spotlight-V100
+.VolumeIcon.icns
+.TemporaryItems
+.fseventsd
+.DS_Store
+.Trashes
+.apdisk
+Icon?
+!Icons
+
+# ----------------------------------------------------------------------------------------------------------------------
+
+# For shell glob patterns. This includes Git files too.
+# We simply maintain this list together with `.gitignore`.
+# .~*;*~;*.bak;node_modules;npm-debug.log;.idea;*.ipr;*.iws;*.sublime-workspace;*.sublime-project;.git;.gitignore;.gitattributes;CVS;.cvsignore;.svn;_svn;.bzr;.bzrignore;.hg;.hgignore;SCCS;RCS;$RECYCLE.BIN;Desktop.ini;Thumbs.db;ehthumbs.db;.Spotlight-V100;.AppleDouble;.LSOverride;.DS_Store;.Trashes;._*;.elasticbeanstalk;.vagrant
+
+# This list is for IntelliJ IDEA / PhpStorm `File Types` configuration.
+# Some files we actually WANT to work with as part of a project.
+# .sass-cache;.idea;*.ipr;*.iws;*.sublime-workspace;*.sublime-project;.git;CVS;.svn;_svn;.bzr;.hg;SCCS;RCS;$RECYCLE.BIN;Desktop.ini;Thumbs.db;ehthumbs.db;.Spotlight-V100;.AppleDouble;.LSOverride;.DS_Store;.Trashes;._*;.vagrant
+
+# <custom>
+#   Put your rules in custom comment markers.
+# </custom>
