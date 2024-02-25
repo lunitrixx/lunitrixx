@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div style="clear: both">
-  <img src="https://static.beastycoding.net/lunitrixx/images/banner/github-profile-header.png" width="" height="" alt="">
+  <img src="https://static.beastycoding.net/lunitrixx/images/banner/lunitrixx_banner_light_bg_claim_2024.png" width="" height="" alt="">
 
   <ul>
     <li>👋 Hi, I’m @lunitrixx</li>
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <hr />
 
 <p align="center">
-  © 2022 Lunitrixx, all rights reserved. Music made with ❤.
+  © 2024 Lunitrixx, all rights reserved. Music made with ❤.
 </p>
 
 <p align="center">
