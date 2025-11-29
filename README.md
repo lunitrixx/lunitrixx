@@ -1,4 +1,10 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lunitrixx.lunitrixx&right_color=orangered">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;You+found+Lunitrixx...;Now+you%E2%80%99re+part+of+the+frequency+⚡&size=30&color=FF4500&center=true&width=650" />
+  </a>
+</h1>
 
 <!--
 **lunitrixx/lunitrixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
